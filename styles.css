@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    min-height: 100vh; /* Full viewport height */
+    min-width: 100vw;  /* Full viewport width */
+    position: relative; /* Relative positioning */
+  }
+  /* Define the frame class */
+.frame {
+    min-height: 100vh; /* Full viewport height */
+    width: 100vw;      /* Full viewport width */
+    position: absolute; /* Absolute positioning */
+    top: 0;            /* Position at the top of the container */
+  }
+  
